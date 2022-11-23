@@ -3,7 +3,7 @@ Study project by creating Spring REST service that simulates the work of cinema<
 Handle HTTP requests in a controller, create services and respond with JSON objects
 
 ## Implementation Features
-- Creating Spring REST service
+- creating Spring REST service
 - handle GET/POST requests
 - process and respond with JSON data
 - throw custom exceptions
